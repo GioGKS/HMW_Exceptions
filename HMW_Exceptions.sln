@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMW_Exceptions", "HMW_Exceptions\HMW_Exceptions.csproj", "{6E93E2F2-50DF-474C-83DC-AD1D3D26D3F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E93E2F2-50DF-474C-83DC-AD1D3D26D3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E93E2F2-50DF-474C-83DC-AD1D3D26D3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E93E2F2-50DF-474C-83DC-AD1D3D26D3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E93E2F2-50DF-474C-83DC-AD1D3D26D3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAEBCCC3-3267-4622-B5C6-CDE2C25CEB02}
+	EndGlobalSection
+EndGlobal
